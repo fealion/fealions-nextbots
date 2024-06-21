@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "fealion_npc/npc_fealion_npc_killicon"
+	"$translucent" 1
+}
